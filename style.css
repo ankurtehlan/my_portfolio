@@ -6,6 +6,12 @@
   --font-semi: 600;
 }
 
+mongodb_icon{
+  width: 8%;
+  height: 8%;
+}
+
+
 /*===== Colores =====*/
 :root {
   --first-color: #4070f4;
@@ -332,6 +338,7 @@ img {
 }
 .skills__img {
   border-radius: 0.5rem;
+  margin-top: 45px;
 }
 
 /* ===== WORK =====*/
