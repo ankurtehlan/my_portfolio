@@ -56,5 +56,9 @@ sr.reveal('.work__img',{interval: 200});
 /*SCROLL CONTACT*/
 sr.reveal('.contact__input',{interval: 200}); 
 
+let date = new Date();
+let currentDate = date.getFullYear();
 
+let para = document.getElementById('fp');
 
+para.innerHTML = currentDate;
