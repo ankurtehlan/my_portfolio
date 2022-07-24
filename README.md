@@ -6,7 +6,7 @@ Deployed version - https://ankur-portfolio-001.herokuapp.com/
 
 ## Technologies:
 * HTML, CSS AND JAVASCRIPT
-* Deployed on netlify
+* Deployed on heroku
 
 
 
